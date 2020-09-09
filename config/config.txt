@@ -1,0 +1,12 @@
+HEADER_TRAIN:1 
+HEADER_TEST:0 
+EVAL:1
+VERBOSE:2 
+ENT_FILE:obj/entities.csv
+SAVE_MODEL':0
+ENT_FILE:obj/entities.csv
+R_MOD_FILE:obj/model_r.h5 
+A_MOD_FILE:obj/model_A.h5
+B_MOD_FILE:obj/model_B.h5
+C_MOD_FILE:obj/model_C.h5
+DICT_FILE:obj/lstm_dict.pkl
